@@ -1,0 +1,23 @@
+INDEX VERSION 1.131+E:\Users\Carol\Desktop\WSs\WS-MicroService\.metadata\.plugins\org.eclipse.jdt.core
+1217822869.index
+1343409047.index
+4243016913.index
+2535991051.index
+2119717370.index
+3815467709.index
+2227838403.index
+2570395665.index
+3293770972.index
+3100803939.index
+4078339325.index
+2676293288.index
+69112288.index
+3087459075.index
+2591402340.index
+3636596629.index
+3512773114.index
+287999548.index
+3791302817.index
+1637262003.index
+1976583490.index
+3234905506.index

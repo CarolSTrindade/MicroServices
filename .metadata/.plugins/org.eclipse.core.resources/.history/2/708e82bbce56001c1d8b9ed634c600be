@@ -1,0 +1,5 @@
+package com.trindadecarol.repository;
+
+public interface BookRepository {
+
+}

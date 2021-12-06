@@ -1,0 +1,10 @@
+server:
+  port: 8080
+Spring: 
+      application: 
+                  name: greetings
+      config:
+            import: optional:configserver:http://localhost:8888/
+      cloud: 
+            config:
+                   profile: hm

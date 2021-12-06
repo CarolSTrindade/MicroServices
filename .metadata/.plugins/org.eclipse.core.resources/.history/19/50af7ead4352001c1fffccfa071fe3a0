@@ -1,0 +1,6 @@
+Spring: 
+      application: 
+                  name: greetings
+greetings:
+         greeting: "Olá!" 
+         default-value: "mundo."

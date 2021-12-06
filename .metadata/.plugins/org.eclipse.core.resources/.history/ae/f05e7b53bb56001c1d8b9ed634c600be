@@ -1,0 +1,5 @@
+package com.trindadecarol.entities;
+
+public class Book {
+
+}
